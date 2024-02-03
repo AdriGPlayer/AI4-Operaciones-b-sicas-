@@ -1,4 +1,4 @@
-# AI4-Operaciones-b-sicas-
+# AI4-Operaciones-basicas-
 Name: Carrasco Torres Marco Adrian.
 
 7th Semester.
